@@ -12,6 +12,8 @@ target 'WeatherApp' do
     :hermes_enabled => false
   )
 
+  pod 'ReactNativeGetLocation', :path => '../node_modules/react-native-get-location'
+
   target 'WeatherAppTests' do
     inherit! :complete
     # Pods for testing

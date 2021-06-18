@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594087660789",
+    "project_id": "wether-ee622",
+    "storage_bucket": "wether-ee622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594087660789:android:26158a00d8e3642c4149bc",
+        "android_client_info": {
+          "package_name": "com.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594087660789-jg5t6uovp7lbot0qk3fjtrjgpudevmk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSJq9qmjUF-VswHvxykCUmb4gocBGuNzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594087660789-jg5t6uovp7lbot0qk3fjtrjgpudevmk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
